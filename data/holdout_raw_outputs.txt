@@ -1,0 +1,107 @@
+CS3_HOLDOUT_001
+{
+"issues": [
+{
+"rule_id": "RULE_1",
+"issue_state": "CONFIRMED",
+"source_text": "Switch today with zero risk and start seeing results immediately.",
+"explanation": "The prohibited phrase is clearly asserted as a marketing claim."
+}
+]
+}
+
+CS3_HOLDOUT_002
+{"issues": []}
+
+CS3_HOLDOUT_003
+{
+"issues": [
+{
+"rule_id": "RULE_2",
+"issue_state": "CONFIRMED",
+"source_text": "Reduce reporting time by one third while keeping your existing approval process.",
+"explanation": "This is a measurable time-saving outcome claim."
+}
+]
+}
+
+CS3_HOLDOUT_004
+{
+"issues": [
+{
+"rule_id": "RULE_3",
+"issue_state": "CONFIRMED",
+"source_text": "The most accurate revenue forecasting platform for subscription businesses.",
+"explanation": "This is an absolute superiority claim."
+}
+]
+}
+
+CS3_HOLDOUT_005
+{"issues": []}
+
+CS3_HOLDOUT_006
+{
+"issues": [
+{
+"rule_id": "RULE_4",
+"issue_state": "CONFIRMED",
+"source_text": "ApexCRM is a mess that cannot be trusted with serious customer data.",
+"explanation": "This is a negative trust and reliability claim about a named external product."
+}
+]
+}
+
+CS3_HOLDOUT_007
+{
+"issues": [
+{
+"rule_id": "RULE_2",
+"issue_state": "CONFIRMED",
+"source_text": "We cut our monthly close time by 30%.",
+"explanation": "This is a measurable time-saving outcome claim."
+}
+]
+}
+
+CS3_HOLDOUT_008
+{
+"issues": [
+{
+"rule_id": "RULE_5",
+"issue_state": "CONFIRMED",
+"source_text": ""Our team finally has time to focus on customers again." — Sam Patel",
+"explanation": "The copy presents a statement attributed to a named person without clearly identifying it as a customer statement."
+}
+]
+}
+
+CS3_HOLDOUT_009
+{
+"issues": [
+{
+"rule_id": "RULE_1",
+"issue_state": "CONFIRMED",
+"source_text": "Guaranteed results.",
+"explanation": "The prohibited phrase is clearly asserted as a marketing claim."
+},
+{
+"rule_id": "RULE_3",
+"issue_state": "CONFIRMED",
+"source_text": "The best workflow on the market.",
+"explanation": "This is an absolute superiority claim."
+}
+]
+}
+
+CS3_HOLDOUT_010
+{
+"issues": [
+{
+"rule_id": "RULE_1",
+"issue_state": "UNCERTAIN",
+"source_text": "Risk free? Maybe.",
+"explanation": "The prohibited phrase appears in promotional wording, but the question form and qualified wording do not clearly establish whether it is being asserted as a prohibited marketing promise."
+}
+]
+}

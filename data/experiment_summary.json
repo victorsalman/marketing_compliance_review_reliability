@@ -1,0 +1,50 @@
+{
+  "case_study": "Marketing Compliance Review Reliability",
+  "type": "Independent AI systems case study",
+  "development": {
+    "submissions": 31,
+    "expected_semantic_submission_decisions_matched": 31,
+    "expected_individual_issues": 24,
+    "expected_individual_issues_matched": 24,
+    "raw_valid_json": 27,
+    "raw_invalid_json": 4,
+    "invalid_json_case_ids": [
+      "CS3_DEV_014",
+      "CS3_DEV_015",
+      "CS3_DEV_016",
+      "CS3_DEV_017"
+    ],
+    "observed_high_risk_false_approvals": 0,
+    "test_type": "controlled same conversation synthetic development test"
+  },
+  "holdout": {
+    "submissions": 10,
+    "expected_semantic_submission_decisions_matched": 10,
+    "expected_individual_issues": 9,
+    "expected_individual_issues_matched": 9,
+    "expected_evidence_selections": 9,
+    "expected_evidence_selections_matched": 9,
+    "raw_valid_json": 9,
+    "raw_invalid_json": 1,
+    "invalid_json_case_ids": [
+      "CS3_HOLDOUT_008"
+    ],
+    "observed_high_risk_false_approvals": 0,
+    "test_type": "unseen synthetic holdout with answers hidden before execution"
+  },
+  "combined": {
+    "submissions": 41,
+    "semantic_submission_decisions_matched": 41,
+    "raw_valid_json": 36,
+    "raw_invalid_json": 5
+  },
+  "limitations": [
+    "Synthetic data only",
+    "Conversational model testing rather than independent API execution",
+    "Small development and holdout sets",
+    "No production traffic",
+    "No latency, cost, retry, throughput, privacy, monitoring, or deployment measurements",
+    "No externally validated compliance accuracy",
+    "Prompt injection behavior was tested only in controlled examples and is not a security proof"
+  ]
+}

@@ -1,0 +1,278 @@
+{
+"issues": [
+{
+"rule_id": "RULE_1",
+"issue_state": "CONFIRMED",
+"source_text": "Guaranteed results for every customer who switches today.",
+"explanation": "The prohibited phrase is clearly asserted as a marketing claim."
+}
+]
+}
+
+{
+"issues": [
+{
+"rule_id": "RULE_1",
+"issue_state": "CONFIRMED",
+"source_text": "GUARANTEED    RESULTS for every customer.",
+"explanation": "The prohibited phrase is clearly asserted as a marketing claim."
+}
+]
+}
+
+{
+"issues": []
+}
+
+{
+"issues": []
+}
+
+{
+"issues": []
+}
+
+{
+"issues": [
+{
+"rule_id": "RULE_2",
+"issue_state": "CONFIRMED",
+"source_text": "Increase trial-to-paid conversion by 35%.",
+"explanation": "This is a measurable conversion outcome claim."
+}
+]
+}
+
+{
+"issues": [
+{
+"rule_id": "RULE_2",
+"issue_state": "CONFIRMED",
+"source_text": "Cut onboarding time in half.",
+"explanation": "This is a measurable time-saving outcome claim."
+}
+]
+}
+
+{
+"issues": [
+{
+"rule_id": "RULE_3",
+"issue_state": "CONFIRMED",
+"source_text": "The fastest solution for SaaS revenue teams.",
+"explanation": "This is an absolute superiority claim."
+}
+]
+}
+
+{
+"issues": []
+}
+
+{
+"issues": [
+{
+"rule_id": "RULE_4",
+"issue_state": "CONFIRMED",
+"source_text": "Northstar CRM is unreliable and frequently loses customer data.",
+"explanation": "This is a negative claim about a named external product."
+}
+]
+}
+
+{
+"issues": []
+}
+
+{
+"issues": []
+}
+
+{
+"issues": [
+{
+"rule_id": "RULE_2",
+"issue_state": "CONFIRMED",
+"source_text": "We save 12 hours every month using the reporting workflow.",
+"explanation": "This is a measurable time-saving outcome claim."
+}
+]
+}
+
+{
+"issues": [
+{
+"rule_id": "RULE_5",
+"issue_state": "CONFIRMED",
+"source_text": ""This completely changed how our team works." — Jordan Lee",
+"explanation": "The copy presents a statement attributed to a named person without clearly identifying it as a customer statement."
+}
+]
+}
+
+{
+"issues": [
+{
+"rule_id": "RULE_2",
+"issue_state": "CONFIRMED",
+"source_text": "We increased conversions by 28% in six weeks.",
+"explanation": "This is a measurable conversion outcome claim."
+},
+{
+"rule_id": "RULE_5",
+"issue_state": "CONFIRMED",
+"source_text": ""We increased conversions by 28% in six weeks." — Morgan",
+"explanation": "The copy presents a result attributed to a named person without clearly identifying it as a customer statement."
+}
+]
+}
+
+{
+"issues": [
+{
+"rule_id": "RULE_1",
+"issue_state": "CONFIRMED",
+"source_text": "Guaranteed results for every customer.",
+"explanation": "The prohibited phrase is clearly asserted as a marketing claim."
+},
+{
+"rule_id": "RULE_2",
+"issue_state": "CONFIRMED",
+"source_text": "Increase conversions by 40%.",
+"explanation": "This is a measurable conversion outcome claim."
+},
+{
+"rule_id": "RULE_4",
+"issue_state": "CONFIRMED",
+"source_text": "Northstar CRM is unreliable.",
+"explanation": "This is a negative claim about a named external product."
+},
+{
+"rule_id": "RULE_2",
+"issue_state": "CONFIRMED",
+"source_text": "We cut reporting time in half.",
+"explanation": "This is a measurable time-saving outcome claim."
+},
+{
+"rule_id": "RULE_5",
+"issue_state": "CONFIRMED",
+"source_text": ""We cut reporting time in half." — Taylor",
+"explanation": "The copy presents a result attributed to a named person without clearly identifying it as a customer statement."
+}
+]
+}
+
+{
+"issues": [
+{
+"rule_id": "RULE_4",
+"issue_state": "CONFIRMED",
+"source_text": "Northstar CRM? Sure, if "reliable" means crashing every Friday.",
+"explanation": "The sarcasm communicates a negative reliability claim about a named external product."
+}
+]
+}
+
+{
+"issues": []
+}
+
+{
+"issues": [
+{
+"rule_id": "RULE_2",
+"issue_state": "CONFIRMED",
+"source_text": "Save 18 hours every month on campaign approvals.",
+"explanation": "This is a measurable time-saving outcome claim."
+}
+]
+}
+
+{
+"issues": []
+}
+
+{
+"issues": [
+{
+"rule_id": "RULE_1",
+"issue_state": "CONFIRMED",
+"source_text": "Guaranteed results for every customer.",
+"explanation": "The prohibited phrase is clearly asserted as a marketing claim."
+}
+]
+}
+
+{"issues": []}
+
+{
+"issues": [
+{
+"rule_id": "RULE_3",
+"issue_state": "CONFIRMED",
+"source_text": "No other platform can match our reporting speed.",
+"explanation": "This is an absolute superiority claim."
+}
+]
+}
+
+{
+"issues": [
+{
+"rule_id": "RULE_4",
+"issue_state": "CONFIRMED",
+"source_text": "Northstar CRM leaves teams waiting while our platform keeps work moving.",
+"explanation": "This communicates a negative comparative claim about a named external product."
+}
+]
+}
+
+{"issues": []}
+
+{
+"issues": [
+{
+"rule_id": "RULE_1",
+"issue_state": "CONFIRMED",
+"source_text": "Our forecasting dashboard is 100% accurate.",
+"explanation": "The prohibited phrase is clearly asserted as a marketing claim."
+}
+]
+}
+
+{"issues": []}
+
+{
+"issues": [
+{
+"rule_id": "RULE_1",
+"issue_state": "CONFIRMED",
+"source_text": "There is NO RISK when you switch to our platform.",
+"explanation": "The prohibited phrase is clearly asserted as a marketing claim."
+}
+]
+}
+
+{
+"issues": [
+{
+"rule_id": "RULE_3",
+"issue_state": "CONFIRMED",
+"source_text": "This is the best platform we've used.",
+"explanation": "This is an absolute superiority claim."
+}
+]
+}
+
+{"issues": []}
+
+{
+"issues": [
+{
+"rule_id": "RULE_1",
+"issue_state": "UNCERTAIN",
+"source_text": "Guaranteed results? See what happens when you switch.",
+"explanation": "The prohibited phrase appears in promotional wording, but the question form does not clearly establish whether it is being asserted as a prohibited marketing promise."
+}
+]
+}
