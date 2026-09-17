@@ -11,6 +11,7 @@ The project focuses on prompt engineering and AI reliability evaluation rather t
 ## Architecture
 
 The smallest candidate architecture uses one semantic model call surrounded by deterministic processing. Deterministic preprocessing supplies exact RULE_1 lexical candidates. The language model performs semantic interpretation and evidence selection. Deterministic software is responsible for JSON parsing, schema enforcement, allowed values, exact evidence verification, duplicate handling, rule mapping, and final APPROVED, REVIEW, or REJECTED calculation. Human review handles unresolved semantic ambiguity and policy judgment.
+![Marketing Compliance Review Architecture](assets/Upwork%20Case%20Study%203%20visual%2003.png)
 
 ## Controlled results
 
